@@ -2,7 +2,7 @@
  for ($sayac = 1; $sayac <= 7 ; $sayac++ )
  {
  print ("<font SIZE= $sayac >");
- print ("<b><p>Ýyileri iyilikleri ile alkýþlayýnýz!</b></p>");
+ print ("<b><p>Ýyileri iyilikleri ile alkýþlamak lazým!</b></p>");
  print ("</font>");
  }
  ?>
