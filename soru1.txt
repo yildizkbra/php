@@ -3,6 +3,7 @@
  {
  print ("<font SIZE= $sayac >");
  print ("<b><p>Ýyileri iyilikleri ile alkýþlamak lazým!</b></p>");
+print("yeni");
  print ("</font>");
  }
  ?>
