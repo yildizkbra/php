@@ -2,8 +2,12 @@
  for ($sayac = 1; $sayac <= 7 ; $sayac++ )
  {
  print ("<font SIZE= $sayac >");
+<<<<<<< HEAD
  print ("<b><p>İyileri iyilikleri ile alkışlamak lazım!</b></p>");
 print("yeni");
+=======
+ print ("<b><p>İyileri iyilikleri ile alkışlayınız!</b></p>");
+>>>>>>> parent of 51c8cad... yazÄ±yÄ± deÄŸiÅŸtirdim
  print ("</font>");
  }
  ?>
